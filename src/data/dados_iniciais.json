@@ -1,162 +1,162 @@
 {
   "categorias": [
     {
-      "titulo": "Livros na Quarentena",
+      "titulo": "Mulher + Tecnologia",
       "cor": "#a8326b",
       "videos": [
         {
-          "titulo": "Quer ler mais, porém não sabe por onde começar? #BelRodriguesTeConta",
-          "url": "https://www.youtube.com/watch?v=iIm0jTILJrU"
+          "titulo": "Mulheres na Tecnologia",
+          "url": "https://www.youtube.com/watch?v=ZvOMu4x8-0Y"
         },
         {
-          "titulo": "10 livros na quarente",
-          "url": "https://www.youtube.com/watch?v=DlZrQxqkXGA"
+          "titulo": "minha história",
+          "url": "https://www.youtube.com/watch?v=yJTsA4hC_fw"
         },
         {
-          "titulo": "Quarentena BookTag",
-          "url": "https://www.youtube.com/watch?v=Qm-P9-D4th8"
+          "titulo": "representatividade",
+          "url": "https://www.youtube.com/watch?v=nzL2z-U9tu8"
         },
         {
-          "titulo": "Inspiração na quarentena",
-          "url": "https://www.youtube.com/watch?v=UVuLSl0obmg"
+          "titulo": "hora da mulher",
+          "url": "https://www.youtube.com/watch?v=pjoKEkg_HIA"
         },
         {
-          "titulo": "Livros lidos na quarentena",
-          "url": "https://www.youtube.com/watch?v=w0CjuUK2Cx8"
+          "titulo": "entrevista camila",
+          "url": "https://www.youtube.com/watch?v=lOnQcorEMc0"
         },
         {
-          "titulo": "Xo corona bora ler",
-          "url": "https://www.youtube.com/watch?v=Jd0NhFEYGVE"
+          "titulo": "animação",
+          "url": "https://www.youtube.com/watch?v=TWYoIBy37sI"
         },
         {
-          "titulo": "Conhecendo livros na quarentena",
-          "url": "https://www.youtube.com/watch?v=4aSvV1SFscU"
+          "titulo": "youtuber",
+          "url": "https://www.youtube.com/watch?v=2ZbZDOcbNYM"
         },
         {
-          "titulo": "Ler no isolamento",
-          "url": "https://www.youtube.com/watch?v=VbnP5FwkLMo"
+          "titulo": "sobre mulheres",
+          "url": "https://www.youtube.com/watch?v=JLGw59eLmFY"
         }        
       ]
     },
     {
-      "titulo": "BookHaul",
+      "titulo": "Palestras",
       "cor": "#d9a7bf",
       "videos": [
         {
-          "titulo": "BookHaul Mariana Moura",
-          "url": "https://www.youtube.com/watch?v=xuyANJtp-sM"
+          "titulo": "mulhes na computação",
+          "url": "https://www.youtube.com/watch?v=Qq9h2vVBZmQ"
         },
         {
-          "titulo": "BookHaul do Sucesso",
-          "url": "https://www.youtube.com/watch?v=r985fKEMmeo"
+          "titulo": "Chris",
+          "url": "https://www.youtube.com/watch?v=CZnk3FDmBRg"
         },
         {
-          "titulo": "BookHaul dos Crushs",
-          "url": "https://www.youtube.com/watch?v=iAslIyJ7tZs"
+          "titulo": "WomakersCode",
+          "url": "https://www.youtube.com/watch?v=Ah05cgRap0c"
         },
         {
-          "titulo": "BookHaul acumulado",
-          "url": "https://www.youtube.com/watch?v=OPPLJiAg1No"
+          "titulo": "mulheres que inspiram",
+          "url": "https://www.youtube.com/watch?v=uBUt4VxGs10"
         }, 
         {
-          "titulo": "BookHaul do ano",
-          "url": "https://www.youtube.com/watch?v=122_fRbOYrY"
+          "titulo": "CP Goiais",
+          "url": "https://www.youtube.com/watch?v=Z0Wq2wJMGWY"
         }
       ]
     },
     {
-      "titulo": "Lá vem a TAG",
+      "titulo": "Bate Papo",
       "cor": "#7863e0",
       "videos": [
         {
-          "titulo": "Tag das princesas",
-          "url": "https://www.youtube.com/watch?v=JlXDfq-CjjE"
+          "titulo": "Globo Tech",
+          "url": "https://www.youtube.com/watch?v=V4rgkTh1W7E"
         },
         {
-          "titulo": "Tag dos 50%",
-          "url": "https://www.youtube.com/watch?v=ev4UvvB-Tso"
+          "titulo": "PretaLab",
+          "url": "https://www.youtube.com/watch?v=9c57iQ7eKoM"
         },
         {
-          "titulo": "Tag Fobia",
-          "url": "https://www.youtube.com/watch?v=xg6tmfVEP2A"
+          "titulo": "C6",
+          "url": "https://www.youtube.com/watch?v=-byzUtYSP14"
         },
         {
-          "titulo": "Tag livros pelo mundo",
-          "url": "https://www.youtube.com/watch?v=0aCmpDGv5_4"
+          "titulo": "B2W",
+          "url": "https://www.youtube.com/watch?v=aHCJGFbaWv0"
         }
       ]
     },
     {
-      "titulo": "Livro x Filme",
+      "titulo": "PodProgramar",
       "cor": "#63cfe0",
       "videos": [
         {
-          "titulo": "Livros que vão virar filme em 2020",
-          "url": "https://www.youtube.com/watch?v=BH5EdxNANTo"
+          "titulo": "Mães na TI",
+          "url": "https://www.youtube.com/watch?v=fzQSMI2UsTs"
         },
         {
-          "titulo": "After",
-          "url": "https://www.youtube.com/watch?v=qgj9SsOEgHU"
+          "titulo": "Primeiros Passos",
+          "url": "https://www.youtube.com/watch?v=AS_xzOTmOx0"
         },
         {
-          "titulo": "melhores adaptações",
-          "url": "https://www.youtube.com/watch?v=zowKejq3U4c"
+          "titulo": "soft Skills",
+          "url": "https://www.youtube.com/watch?v=tR3WqJ9L7yo"
         },
         {
-          "titulo": "Faltou no filme",
-          "url": "https://www.youtube.com/watch?v=YVtOMAVeh5Y"
+          "titulo": "SOAP e Rest",
+          "url": "https://www.youtube.com/watch?v=bdl4rmChQPc"
         }
       ]
     },
     {
-      "titulo": "Livro x Série",
+      "titulo": "Mulheres que ensinam",
       "cor": "#e37d68",
       "videos": [
         {
-          "titulo": "Anne",
-          "url": "https://www.youtube.com/watch?v=KTsFI8UUZDM"
+          "titulo": "Angular",
+          "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PL5ofHFAj5iqxjhjtVqvYL7OTvjr6Ez-Ye&index=1"
         },
         {
-          "titulo": "Livros unicos series de livros",
-          "url": "https://www.youtube.com/watch?v=bwYJ5gOs5pY"
+          "titulo": "Python",
+          "url": "https://www.youtube.com/watch?v=APzo-zTg47o&list=PL5ofHFAj5iqxjhjtVqvYL7OTvjr6Ez-Ye&index=3"
         },
         {
-          "titulo": "You",
-          "url": "https://www.youtube.com/watch?v=l3frBj-M7KU"
+          "titulo": "GitHub",
+          "url": "https://www.youtube.com/watch?v=2bnbH9a-WNw&list=PL5ofHFAj5iqxjhjtVqvYL7OTvjr6Ez-Ye&index=6"
         },
         {
-          "titulo": "Divergente",
-          "url": "https://www.youtube.com/watch?v=6fqGD0EGHF0"
+          "titulo": "JavaScript",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
         },
         {
-          "titulo": "A noiva",
-          "url": "https://www.youtube.com/watch?v=fdusBAfzOJo"
+          "titulo": "Ju Negreiros",
+          "url": "https://www.youtube.com/watch?v=RLP9MixVZvw"
         }
       ]
     },
     {
-      "titulo": "Unboxing",
+      "titulo": "Mulheres que inspiram",
       "cor": "#6b5be2",
       "videos": [
         {
-          "titulo": "Todo dia um livro",
-          "url": "https://www.youtube.com/watch?v=oY84F3JwgU4"
+          "titulo": "5 mulhres incriveis na TI",
+          "url": "https://www.youtube.com/watch?v=5GLYbbYXStg"
         },
         {
-          "titulo": "Peças infernais",
-          "url": "https://www.youtube.com/watch?v=oDae44u5lmQ"
+          "titulo": "TecMundo",
+          "url": "https://www.youtube.com/watch?v=raZE1ur1wa8"
         },
         {
-          "titulo": "the mortal",
-          "url": "https://www.youtube.com/watch?v=3hxJKU-UWr0"
+          "titulo": "tecnologia e engenharia",
+          "url": "https://www.youtube.com/watch?v=ocHs7qzQFRw"
         },
         {
-          "titulo": "falindo",
-          "url": "https://www.youtube.com/watch?v=cOfrvshIRi0"
+          "titulo": "Tec e gamers",
+          "url": "https://www.youtube.com/watch?v=WuCgBctGa-g"
         },
         {
-          "titulo": "super unboxing",
-          "url": "https://www.youtube.com/watch?v=Mt9MPmN5nDg"
+          "titulo": "fizeram historia",
+          "url": "https://www.youtube.com/watch?v=pzbL4yBWehc"
         }
       ]
     }
