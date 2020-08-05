@@ -9,7 +9,9 @@ Desenvolvido em React durante a Imersão React da [Alura](https://www.alura.com.
 - [Node.js](https://nodejs.org/)
 
 ## :pushpin: Recursos
-
+- Listagem de vídeos do Youtube separados por categorias
+- Redirecionar para os vídeos no Youtube ao clicar
+- Cadastro de novos vídeos nas categorias pré-definidas
 ## :warning: Como usar
 ### `npm start`
 
