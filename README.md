@@ -2,6 +2,8 @@
 Projeto inspirado na Netflix, onde tem como objetivo listar e cadastrar videos preferidos do YouTube.
 Desenvolvido em React durante a Imersão React da Alura
 
+## ![](/src/assets/img/Logo.png)
+
 ## Available Scripts
 In the project directory, you can run:
 
