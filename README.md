@@ -1,6 +1,6 @@
 ## :computer: TechWomanFlix
 Projeto inspirado na Netflix, onde tem como objetivo listar e cadastrar videos preferidos do YouTube.
-Desenvolvido em React durante a Imersão React da Alura
+Desenvolvido em React durante a Imersão React da [Alura](https://www.alura.com.br/).
 
 ## ![](/src/assets/img/Logo.png)
 
