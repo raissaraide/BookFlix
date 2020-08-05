@@ -5,8 +5,8 @@ Desenvolvido em React durante a Imersão React da [Alura](https://www.alura.com.
 ## ![](/src/assets/img/Logo.png)
 
 ## :rocket: Tecnologias
-1. [React.js](https://reactjs.org/)
-2. [Node.js](https://nodejs.org/)
+- [React.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
 
 ### `npm start`
 
