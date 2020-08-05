@@ -20,18 +20,18 @@ Linhas de comando:
 
 
 ```
-#Clone o repositório
+##Clone o repositório
 $ Git clone https://github.com/raissaraide/TechWomanFlix.git
 
-#Entre no repositório
+##Entre no repositório
 $ cd BookFlix
 
-#Instale as dependências
+##Instale as dependências
 $ yarn
 ou
 $ npm install
 
-#Rodar
+##Rodar
 $ npm start
 
 ```
