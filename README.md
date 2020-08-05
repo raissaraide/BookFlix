@@ -4,8 +4,9 @@ Desenvolvido em React durante a Imersão React da [Alura](https://www.alura.com.
 
 ## ![](/src/assets/img/Logo.png)
 
-## Available Scripts
-In the project directory, you can run:
+## :rocket: Tecnologias
+1. [React.js](https://reactjs.org/)
+2. [Node.js](https://nodejs.org/)
 
 ### `npm start`
 
