@@ -1,7 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TechWomanFlix
+Projeto inspirado na Netflix, onde tem como objetivo listar e cadastrar videos preferidos do YouTube.
+Desenvolvido em React durante a Imersão React da @Alura
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
