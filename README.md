@@ -18,6 +18,24 @@ Para clonar e rodar essa aplicação, você precisa:
 [Git](https://git-scm.com/), [Node.js v12.18.3] ou superior e [npm v6.13.4] ou superior instalada no seu computador.<br />
 Linhas de comando:
 
+
+```
+#Clone o repositório
+$ Git clone https://github.com/raissaraide/TechWomanFlix.git
+
+#Entre no repositório
+$ cd BookFlix
+
+#Instale as dependências
+$ yarn
+ou
+$ npm install
+
+#Rodar
+$ npm start
+
+´´´
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
