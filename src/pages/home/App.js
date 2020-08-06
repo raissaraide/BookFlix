@@ -12,7 +12,7 @@ function App() {
             <BannerMain 
                 videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
                 url={dadosIniciais.categorias[0].videos[0].url}
-                videoDescription={"Como as mulheres estão conquistando cada vez mais espaço em um mercado predominantemente masculino e quais as dicas para as mulheres que desejam iniciar na carreira de tecnologia."}
+                videoDescription={"Imagina um ambiente de trabalho com 50% de homens e 50% de mulheres."}
             />
             <Carousel
                 ignoreFirstVideo
