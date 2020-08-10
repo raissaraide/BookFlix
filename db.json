@@ -1,0 +1,11 @@
+{
+  "categorias": [
+    { 
+      "id": "1",
+      "nome": "Teste Categoria",  
+      "descricao": "Teste Categoria",
+      "cor": "#C5C5C5"
+    }
+  ]
+
+}
