@@ -24,7 +24,7 @@ Linhas de comando:
 $ Git clone https://github.com/raissaraide/TechWomanFlix.git
 
 #Entre no repositório
-$ cd BookFlix
+$ cd TechWomanFlix
 
 #Instale as dependências
 $ yarn
