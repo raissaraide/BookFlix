@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/pageDefault';
 import FormField from '../../../components/FormField/FormField';
 import Button from '../../../components/Button';
+import useForm from '../../../hooks';
 
 function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
@@ -15,26 +16,11 @@ function CadastroCategoria() {
     cor: '',
   };
 
-  const [valores, setValores] = useState(valoresIniciais);
-
-  function setValor(chave, valor) {
-    setValores({
-      ...valores,
-      [chave]: valor,
-    });
-  }
-
-  function handleChange(infosDoEvento) {
-    // const {getAttribute, value} = infos.target;
-    setValor(
-      infosDoEvento.target.getAttribute('name'),
-      infosDoEvento.target.value,
-    );
-  }
+  const { handleChange, valores, clearForm } = useForm(valoresIniciais);
 
   useEffect(() => {
     console.log('alo alo alo');
-    const URL_TOP = 'http://localhost:8080/categorias';
+    const URL_TOP = window.location.hostname.includes('localhost') ? 'http://localhost:8080/categorias' : 'https://techwomanflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
@@ -54,7 +40,7 @@ function CadastroCategoria() {
           ...categorias,
           valores,
         ]);
-        setValores(valoresIniciais);
+        clearForm();
       }}
       >
 
